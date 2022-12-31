@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
+
 double poly(int a[20], double x, int n);
 double turev(int a[100], double x, int n);
 int fac(int n);
