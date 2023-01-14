@@ -1,0 +1,1 @@
+# Sayisal-Analiz-Yontemleri
